@@ -1,10 +1,10 @@
-Mikor született Radnóti Miklós?;1909;1912;1898;true;false;false  
-Mi volt Radnóti Miklós eredeti vezetékneve?;Glatter;Radnóti;Molnár;true;false;false  
-Melyik egyetemre járt Radnóti Miklós?;Szegedi Tudományegyetem;Eötvös Loránd Tudományegyetem;Debreceni Egyetem;true;false;false  
-Melyik versciklusa született a munkaszolgálat alatt?;Razglednicák;Tajtékos ég;Napló;true;false;false  
-Hol halt meg Radnóti Miklós?;Abda;Szeged;Budapest;true;false;false  
-Mi Radnóti Miklós legismertebb háborús verse?;Hetedik ecloga;Nem tudhatom;Huszonnyolc év;true;false;false  
-Kinek írta Radnóti Miklós a "Levél a hitveshez" című versét?;Gyarmati Fanninak;Szendrey Júliának;Török Sophie-nak;true;false;false  
-Melyik kötetében található a „Nem tudhatom” című vers?;Meredek út;Ikrek hava;Újhold;true;false;false  
-Hogyan fedezték fel Radnóti Miklós utolsó verseit?;Tömegsírból előkerült noteszben;Felesége kiadatta halála után;Barátai őrizték meg kéziratait;true;false;false  
-Mit jelent Radnóti Miklós „Razglednica” című versciklusának címe?;Képeslap;Emlékirat;Búcsúlevél;true;false;false  
+Mikor született Radnóti Miklós?; 1909; 1912; 1898; true; false; false
+Mi volt Radnóti Miklós eredeti vezetékneve?; Radnóti; Molnár; Glatter; false; false; true
+Melyik egyetemre járt Radnóti Miklós?; Debreceni Egyetem; Szegedi Tudományegyetem; Eötvös Loránd Tudományegyetem; false; true; false
+Melyik versciklusa született a munkaszolgálat alatt?; Tajtékos ég; Razglednicák; Napló; false; true; false
+Hol halt meg Radnóti Miklós?; Abda; Szeged; Budapest; true; false; false
+Mi Radnóti Miklós legismertebb háborús verse?; Nem tudhatom; Hetedik ecloga; Huszonnyolc év; false; true; false
+Kinek írta Radnóti Miklós a "Levél a hitveshez" című versét?; Gyarmati Fanninak; Török Sophie-nak; Szendrey Júliának; true; false; false
+Melyik kötetében található a „Nem tudhatom” című vers?; Meredek út; Újhold; Ikrek hava; true; false; false
+Hogyan fedezték fel Radnóti Miklós utolsó verseit?; Barátai őrizték meg kéziratait; Tömegsírból előkerült noteszben; Felesége kiadatta halála után; false; true; false
+Mit jelent Radnóti Miklós „Razglednica” című versciklusának címe?; Emlékirat; Búcsúlevél; Képeslap; false; false; true
